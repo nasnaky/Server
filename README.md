@@ -1,5 +1,5 @@
 # Server
-### 요구사항 명세서 
+### DB 테이블 명세서 
 https://morning-gander-3a2.notion.site/e2d15374b2e04783a828dbf95261cfc6
 ---
 ### 후기
